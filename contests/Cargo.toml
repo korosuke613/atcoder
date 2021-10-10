@@ -142,3 +142,15 @@ path = "code-festival-2016-qualb/codefestival_2016_qualB_a.rs"
 [[bin]]
 name="arc114_arc114_a"
 path = "arc114/arc114_a.rs"
+
+[[bin]]
+name="nikkei2019-qual_nikkei2019_qual_a"
+path = "nikkei2019-qual/nikkei2019_qual_a.rs"
+
+[[bin]]
+name="donuts-2015_donuts_2015_1"
+path = "donuts-2015/donuts_2015_1.rs"
+
+[[bin]]
+name="arc044_arc044_a"
+path = "arc044/arc044_a.rs"
