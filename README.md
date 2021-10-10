@@ -1,5 +1,5 @@
 # atcoder
-My Atcoder problems.
+My AtCoder problems.
 
 ## Require
 - Deno
