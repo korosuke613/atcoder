@@ -18,3 +18,12 @@ Example: `./add_new_problem.sh https://atcoder.jp/contests/abs/tasks/abc081_b`.
 ```
 
 Example: `./run.sh abs_abc081_b`.
+
+## Asakatsu
+Create a commit and pull request.
+
+```
+./asakatsu.sh <YEAR> <MONTH> <DAY>
+```
+
+Example: `./asakatsu.sh 2021 10 11`.
