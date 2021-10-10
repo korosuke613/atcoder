@@ -7,7 +7,7 @@ My Atcoder problems.
 
 ## Add new problem
 Create a .rs file and add the bin configuration to Cargo.toml.
-```console
+```
 ./add_new_problem.sh <ATCODER_PROBLEM_URL>
 ```
 
