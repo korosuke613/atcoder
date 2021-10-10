@@ -5,20 +5,20 @@ My AtCoder problems.
 - Deno
 - Rust
 
-## Add new problem
+## Setup
 Create a .rs file and add the bin configuration to Cargo.toml.
 ```
-./add_new_problem.sh <ATCODER_PROBLEM_URL>
+./setup.sh <ATCODER_PROBLEM_URL>
 ```
 
-Example: `./add_new_problem.sh https://atcoder.jp/contests/abs/tasks/abc081_b`.
+Example: `./setup.sh https://atcoder.jp/contests/abs/tasks/abc081_b`.
 
 ## Run
 ```
-./run.sh <CONTEST_NAME>_<TASK_NAME>
+./run.sh <ATCODER_PROBLEM_URL>
 ```
 
-Example: `./run.sh abs_abc081_b`.
+Example: `./run.sh https://atcoder.jp/contests/abs/tasks/abc081_b`.
 
 ## Asakatsu
 Create a commit and pull request.
