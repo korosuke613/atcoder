@@ -154,3 +154,19 @@ path = "donuts-2015/donuts_2015_1.rs"
 [[bin]]
 name="arc044_arc044_a"
 path = "arc044/arc044_a.rs"
+
+[[bin]]
+name="abc122_abc122_a"
+path = "abc122/abc122_a.rs"
+
+[[bin]]
+name="tenka1-2014-qualb_tenka1_2014_qualB_a"
+path = "tenka1-2014-qualb/tenka1_2014_qualB_a.rs"
+
+[[bin]]
+name="tenka1-2014-qualb_tenka1_2014_qualB_a_Another"
+path = "tenka1-2014-qualb/tenka1_2014_qualB_a_Another.rs"
+
+[[bin]]
+name="arc112_arc112_b"
+path = "arc112/arc112_b.rs"
