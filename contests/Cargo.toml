@@ -174,3 +174,15 @@ path = "arc112/arc112_b.rs"
 [[bin]]
 name="__playground__"
 path= "__playground__/__index__.rs"
+
+[[bin]]
+name="abc147_abc147_b"
+path = "abc147/abc147_b.rs"
+
+[[bin]]
+name="arc037_arc037_a"
+path = "arc037/arc037_a.rs"
+
+[[bin]]
+name="arc115_arc115_a"
+path = "arc115/arc115_a.rs"
