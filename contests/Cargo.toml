@@ -170,3 +170,7 @@ path = "tenka1-2014-qualb/tenka1_2014_qualB_a_Another.rs"
 [[bin]]
 name="arc112_arc112_b"
 path = "arc112/arc112_b.rs"
+
+[[bin]]
+name="__playground__"
+path= "__playground__/__index__.rs"
