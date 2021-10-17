@@ -206,3 +206,19 @@ path = "arc128/arc128_a.rs"
 [[bin]]
 name="arc128_arc128_a_another"
 path = "arc128/arc128_a_another.rs"
+
+[[bin]]
+name="abc223_abc223_a"
+path = "abc223/abc223_a.rs"
+
+[[bin]]
+name="abc223_abc223_b"
+path = "abc223/abc223_b.rs"
+
+[[bin]]
+name="abc223_abc223_c"
+path = "abc223/abc223_c.rs"
+
+[[bin]]
+name="abc223_abc223_c_another"
+path = "abc223/abc223_c_another.rs"
