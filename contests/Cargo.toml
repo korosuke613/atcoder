@@ -246,3 +246,11 @@ path = "abc097/abc097_a.rs"
 [[bin]]
 name="arc051_arc051_a"
 path = "arc051/arc051_a.rs"
+
+[[bin]]
+name="abc224_abc224_a"
+path = "abc224/abc224_a.rs"
+
+[[bin]]
+name="abc224_abc224_b"
+path = "abc224/abc224_b.rs"
