@@ -254,3 +254,15 @@ path = "abc224/abc224_a.rs"
 [[bin]]
 name="abc224_abc224_b"
 path = "abc224/abc224_b.rs"
+
+[[bin]]
+name="abc199_abc199_b"
+path = "abc199/abc199_b.rs"
+
+[[bin]]
+name="code-festival-2014-quala_code_festival_qualA_b"
+path = "code-festival-2014-quala/code_festival_qualA_b.rs"
+
+[[bin]]
+name="agc028_agc028_a"
+path = "agc028/agc028_a.rs"
