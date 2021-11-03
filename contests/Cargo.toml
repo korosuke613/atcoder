@@ -282,3 +282,15 @@ path = "agc009/agc009_a.rs"
 [[bin]]
 name="arc010_arc010_2"
 path = "arc010/arc010_2.rs"
+
+[[bin]]
+name="abc155_abc155_b"
+path = "abc155/abc155_b.rs"
+
+[[bin]]
+name="abc152_abc152_c"
+path = "abc152/abc152_c.rs"
+
+[[bin]]
+name="abc073_abc073_c"
+path = "abc073/abc073_c.rs"
