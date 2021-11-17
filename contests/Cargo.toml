@@ -346,3 +346,15 @@ path = "abc026/abc026_c.rs"
 [[bin]]
 name="abc227_abc227_a"
 path = "abc227/abc227_a.rs"
+
+[[bin]]
+name="abc226_abc226_a"
+path = "abc226/abc226_a.rs"
+
+[[bin]]
+name="zone2021_zone2021_b"
+path = "zone2021/zone2021_b.rs"
+
+[[bin]]
+name="zone2021_zone2021_b_another"
+path = "zone2021/zone2021_b_another.rs"
