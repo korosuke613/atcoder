@@ -358,3 +358,11 @@ path = "zone2021/zone2021_b.rs"
 [[bin]]
 name="zone2021_zone2021_b_another"
 path = "zone2021/zone2021_b_another.rs"
+
+[[bin]]
+name="abc135_abc135_a"
+path = "abc135/abc135_a.rs"
+
+[[bin]]
+name="abc168_abc168_c"
+path = "abc168/abc168_c.rs"
